@@ -1,7 +1,10 @@
 # Simon Game
 Simon is a WebApp based on the electronic game of memory skill invented by Ralph H. Baer and Howard J. The WebApp creates a series of tones and lights and requires a user to repeat the sequence.
+
 This is another project in The Complete Web Development 2020 Bootcamp course from Angela Yu.
+
 The WebApp focuses on implementing the popular simon game by using HTML, CSS, JS, Bootstrap and JQuery.
+
 The project is used to practice advanced DOM, JS, Click Events, JQuery principles and concepts.
 
 
@@ -10,7 +13,7 @@ The project is used to practice advanced DOM, JS, Click Events, JQuery principle
 
 
 ## Desktop View:
-### Starter Image-
+### Start Image-
 <img alt="starter-image" src="https://github.com/pankaj-mehta/Simon/blob/master/live%20website%20screenshots/starter%20image.png">
 
 ### In Game Image-
@@ -24,7 +27,7 @@ The project is used to practice advanced DOM, JS, Click Events, JQuery principle
 
 
 ## Mobile View:
-### Starter Image-
+### Start Image-
 <img alt="starter-image" src="https://github.com/pankaj-mehta/Simon/blob/master/live%20website%20screenshots/mobile%20starter%20image.jpeg">
 
 ### Game Over Image-
